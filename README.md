@@ -1,84 +1,131 @@
-<!-- Header Section -->
+<!-- Profile Header -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Kancharla%20Rohan&fontSize=50&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1f2937,100:111827&height=120&section=header&text=Kancharla%20Rohan&fontSize=42&fontColor=ffffff" />
 </p>
 
 <h3 align="center">
-🚀 Frontend | Backend | Full Stack Developer <br/>
-AI/ML Enthusiast & Lifelong Learner
+Frontend | Backend | Full Stack Developer <br/>
+AI/ML Exposure • Clean Code • Scalable Systems
 </h3>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3B0bXJ1a2E0NjV0eXJ0ZXl2NGM5eG9zZHZkZ2Zyb2M1c2U1dCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" width="400"/>
-</p>
+---
+
+## 👋 About Me
+
+I’m **Kancharla Rohan**, a **Computer Science undergraduate at IIIT Kottayam (2022–2026)** with strong interest in **Frontend, Backend, and Full Stack development**, and hands-on exposure to **AI/ML systems**.
+
+I enjoy building **production-style applications**, focusing on:
+- Clean UI/UX
+- Well-structured APIs
+- Scalable and maintainable code
+
+I’m actively seeking **internship and entry-level opportunities** where I can contribute to real-world products and grow as a software engineer.
 
 ---
 
-## 🌟 About Me
+## 🎯 Core Strengths (What Interviewers Look For)
 
-- 🎓 **B.Tech in Computer Science** @ **IIIT Kottayam** (2022–2026)
-- 💻 Interested in **Frontend, Backend, and Full Stack Development**
-- ⚛️ Experienced with **React, JavaScript, TypeScript, and REST APIs**
-- 🧠 Exposure to **AI/ML systems** and data-driven applications
-- 📊 Built projects involving **Kafka, Python, and anomaly detection**
-- 🚀 Passionate about building scalable, clean, and user-friendly products
-- 💬 Ask me about **React, APIs, Full Stack apps, or system workflows**
+- Strong fundamentals in **JavaScript, React, and REST APIs**
+- Experience building **end-to-end full stack applications**
+- Exposure to **AI/ML pipelines and data-driven systems**
+- Clean, readable, and modular code
+- Comfortable with Git, collaboration, and deployment
+- Quick learner with problem-solving mindset
 
 ---
 
-## 🧠 Tech Stack
+## 🧠 Technical Skills
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,nodejs,express,mongodb,mysql,python,kafka,git,github,postman,vercel,vscode" />
-</p>
+**Frontend**
+- HTML, CSS, JavaScript, TypeScript
+- React.js, Tailwind CSS
+
+**Backend**
+- Node.js, Express.js
+- RESTful APIs
+
+**Databases**
+- MongoDB
+- MySQL
+
+**AI / ML (Exposure)**
+- Python
+- Anomaly Detection
+- Isolation Forest
+- Kafka
+- Streamlit
+
+**Tools**
+- Git, GitHub
+- Postman
+- Vercel
+- VS Code
+
+---
+
+## 🧩 Featured Projects (With Live Demos)
+
+### 🎓 Educational Learning Platform
+**Description:**  
+A responsive e-learning platform where users can access lessons, attempt quizzes, and track progress.
+
+- **Tech:** React, TypeScript, REST APIs
+- **Focus:** Frontend architecture, reusable components, API integration
+
+🔗 **Live Demo:**  
+https://edupalform-8ui9z1wjh-bunnytonyk-7059s-projects.vercel.app/
+
+🔗 **GitHub Repo:**  
+https://github.com/Rohan-Kancharla
+
+---
+
+### 🍽️ Food Donation Management System
+**Description:**  
+A full-stack platform connecting food donors with NGOs to reduce food wastage.
+
+- **Tech:** React, Node.js, MongoDB, Tailwind CSS
+- **Focus:** Authentication, backend workflows, database integration
+
+🔗 **Live Demo:**  
+(Add your deployed link here)
+
+🔗 **GitHub Repo:**  
+https://github.com/Rohan-Kancharla
+
+---
+
+### 🌱 EcoMart – Eco-Friendly E-Commerce Website
+**Description:**  
+A frontend-focused e-commerce platform showcasing eco-friendly products with clean UI/UX.
+
+- **Tech:** HTML, CSS, JavaScript, Tailwind CSS
+- **Focus:** UI design, product layout, user experience
+
+🔗 **Live Demo:**  
+(Add your deployed link here)
+
+🔗 **GitHub Repo:**  
+https://github.com/Rohan-Kancharla
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rohan-Kancharla&show_icons=true&theme=tokyonight" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rohan-Kancharla&layout=compact&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Rohan-Kancharla&show_icons=true&theme=default" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rohan-Kancharla&layout=compact&theme=default" width="48%" />
 </p>
 
 ---
 
-## 🧩 Featured Projects
+## 📌 What I’m Looking For
 
-### 🍽️ Food Donation Management System
-- **Tech:** React, Node.js, MongoDB, Tailwind CSS  
-- **Description:** Platform connecting food donors with NGOs to reduce food waste  
-- 🔗 GitHub: https://github.com/Rohan-Kancharla
-
----
-
-### 🎓 Educational Learning Platform
-- **Tech:** React, TypeScript, REST APIs  
-- **Description:** E-learning platform with lessons, quizzes, and progress tracking  
-- 🔗 Live Demo: https://edupalform-8ui9z1wjh-bunnytonyk-7059s-projects.vercel.app/
-
----
-
-### 🌦️ Weather Anomaly Detection System
-- **Tech:** Python, Kafka, Isolation Forest, Streamlit  
-- **Description:** Real-time ML system to detect abnormal weather patterns  
-- 🔗 GitHub: https://github.com/Rohan-Kancharla
-
----
-
-## 🏆 Achievements & Learning
-
-- 🧠 Built **end-to-end full stack applications**
-- 📊 Designed **real-time ML pipelines**
-- 🔍 Worked with **streaming data and dashboards**
-- 📚 Continuously improving engineering fundamentals
-
----
-
-## ⚡ Quote I Live By
-
-> *“The best way to learn is by building.”*
+- Frontend / Backend / Full Stack Internships
+- Opportunities to work on real products
+- Mentorship-driven engineering environments
+- Roles that value clean code and learning
 
 ---
 
@@ -86,18 +133,18 @@ AI/ML Enthusiast & Lifelong Learner
 
 <p align="center">
   <a href="https://www.linkedin.com/in/rohan-kancharla-700666309">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
+    <img src="https://skillicons.dev/icons?i=linkedin" height="36"/>
   </a>
   <a href="mailto:rohankancharla04@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" height="40"/>
+    <img src="https://skillicons.dev/icons?i=gmail" height="36"/>
   </a>
   <a href="https://github.com/Rohan-Kancharla">
-    <img src="https://skillicons.dev/icons?i=github" height="40"/>
+    <img src="https://skillicons.dev/icons?i=github" height="36"/>
   </a>
 </p>
 
 ---
 
 <p align="center">
-⭐️ From <a href="https://github.com/Rohan-Kancharla">Kancharla Rohan</a>
+⭐️ Thanks for visiting my profile
 </p>
