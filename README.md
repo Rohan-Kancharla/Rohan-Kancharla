@@ -53,10 +53,10 @@ AI/ML Exposure • Clean Code • Scalable Systems
 - **Focus:** Frontend architecture, reusable components, performance  
 
 🔗 **Live Demo:**  
-https://edupalform-8ui9z1wjh-bunnytonyk-7059s-projects.vercel.app/
+https://edupaltform.vercel.app/
 
 🔗 **GitHub Repo:**  
-https://github.com/Rohan-Kancharla
+https://github.com/Rohan-Kancharla/Eduplatform
 
 ---
 
@@ -67,10 +67,10 @@ https://github.com/Rohan-Kancharla
 - **Focus:** Authentication, backend workflows, database integration  
 
 🔗 **Live Demo:**  
-(Add your deployed link here)
+https://rohan-kancharla.github.io/FoodDonationPlatform/
 
 🔗 **GitHub Repo:**  
-https://github.com/Rohan-Kancharla
+https://github.com/Rohan-Kancharla/FoodDonationPlatform
 
 ---
 
@@ -81,10 +81,10 @@ https://github.com/Rohan-Kancharla
 - **Focus:** UI/UX, product layout, responsiveness  
 
 🔗 **Live Demo:**  
-(Add your deployed link here)
+https://rohan-kancharla.github.io/Eco-firendly-website/
 
 🔗 **GitHub Repo:**  
-https://github.com/Rohan-Kancharla
+https://github.com/Rohan-Kancharla/Eco-firendly-website
 
 ---
 
