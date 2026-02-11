@@ -4,7 +4,7 @@
 </p>
 
 <h3 align="center">
-Frontend • Backend • Full Stack Developer <br/>
+Frontend Developer <br/>
 AI/ML Exposure • Clean Code • Scalable Systems
 </h3>
 
@@ -17,7 +17,7 @@ AI/ML Exposure • Clean Code • Scalable Systems
 ## 👋 About Me
 
 - 🎓 **B.Tech in Computer Science** @ **IIIT Kottayam** (2022–2026)
-- 💻 Strong interest in **Frontend, Backend, and Full Stack development**
+- 💻 Strong interest in **Frontend development**
 - ⚛️ Hands-on experience with **React, JavaScript, TypeScript, REST APIs**
 - 🧠 Exposure to **AI/ML systems** and real-time data pipelines
 - 🚀 Passionate about building **clean UI, scalable APIs, and real-world products**
@@ -29,7 +29,6 @@ AI/ML Exposure • Clean Code • Scalable Systems
 
 - Clean and maintainable **frontend architecture**
 - Well-structured **REST APIs**
-- End-to-end **full stack project experience**
 - Understanding of **system workflows & data pipelines**
 - Strong problem-solving and learning mindset
 - Comfortable with **Git, deployments, and collaboration**
@@ -99,7 +98,7 @@ https://github.com/Rohan-Kancharla/Eco-firendly-website
 
 ## 📌 Currently Looking For
 
-- Frontend / Backend / Full Stack Internships
+- Frontend Internships
 - Opportunities to work on **real products**
 - Teams that value **clean code and learning**
 - Growth-oriented engineering roles
